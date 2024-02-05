@@ -26,4 +26,9 @@ Source the library, and use its functions.
     any_install "gcc"
 ```
 
+# Alternate URL
+Once code is deemed ready by the core team, it is also accessible here:
+https://software.virtualmin.com/lib/slib.sh
+
+
 Full docs will be written soon.
